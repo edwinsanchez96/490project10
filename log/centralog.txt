@@ -1,0 +1,30 @@
+[05-Nov-2019 20:37:20 America/New_York] PHP Fatal error:  Failed to start request processor: AMQPConnectionException: Socket error: could not connect to host. in /home/edwin/490/rabbitMQLib.inc:110
+Stack trace:
+#0 /home/edwin/490/rabbitMQLib.inc(110): AMQPConnection->connect()
+#1 /home/edwin/490/testErrorServer.php(70): rabbitMQServer->process_requests('requestProcesso...')
+#2 {main} in /home/edwin/490/rabbitMQLib.inc on line 132
+[05-Nov-2019 20:37:28 America/New_York] PHP Fatal error:  Failed to start request processor: AMQPConnectionException: Socket error: could not connect to host. in /home/edwin/490/rabbitMQLib.inc:110
+Stack trace:
+#0 /home/edwin/490/rabbitMQLib.inc(110): AMQPConnection->connect()
+#1 /home/edwin/490/testErrorServer.php(70): rabbitMQServer->process_requests('requestProcesso...')
+#2 {main} in /home/edwin/490/rabbitMQLib.inc on line 132
+[05-Nov-2019 20:37:31 America/New_York] PHP Fatal error:  Failed to start request processor: AMQPConnectionException: Socket error: could not connect to host. in /home/edwin/490/rabbitMQLib.inc:110
+Stack trace:
+#0 /home/edwin/490/rabbitMQLib.inc(110): AMQPConnection->connect()
+#1 /home/edwin/490/testErrorServer.php(70): rabbitMQServer->process_requests('requestProcesso...')
+#2 {main} in /home/edwin/490/rabbitMQLib.inc on line 132
+[05-Nov-2019 20:39:14 America/New_York] PHP Fatal error:  Failed to start request processor: AMQPConnectionException: Socket error: could not connect to host. in /home/edwin/490/rabbitMQLib.inc:110
+Stack trace:
+#0 /home/edwin/490/rabbitMQLib.inc(110): AMQPConnection->connect()
+#1 /home/edwin/490/testErrorServer.php(70): rabbitMQServer->process_requests('requestProcesso...')
+#2 {main} in /home/edwin/490/rabbitMQLib.inc on line 132
+[05-Nov-2019 20:39:21 America/New_York] PHP Fatal error:  Failed to start request processor: AMQPConnectionException: Socket error: could not connect to host. in /home/edwin/490/rabbitMQLib.inc:110
+Stack trace:
+#0 /home/edwin/490/rabbitMQLib.inc(110): AMQPConnection->connect()
+#1 /home/edwin/490/testErrorServer.php(70): rabbitMQServer->process_requests('requestProcesso...')
+#2 {main} in /home/edwin/490/rabbitMQLib.inc on line 132
+[05-Nov-2019 20:39:24 America/New_York] PHP Fatal error:  Failed to start request processor: AMQPConnectionException: Socket error: could not connect to host. in /home/edwin/490/rabbitMQLib.inc:110
+Stack trace:
+#0 /home/edwin/490/rabbitMQLib.inc(110): AMQPConnection->connect()
+#1 /home/edwin/490/testErrorServer.php(70): rabbitMQServer->process_requests('requestProcesso...')
+#2 {main} in /home/edwin/490/rabbitMQLib.inc on line 132

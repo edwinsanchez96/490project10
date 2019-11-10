@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-$dbip = "127.0.0.1:3306";
+$dbip = "192.168.1.138:3306";
 $username = "user";
 $password = "password";
 $dbname = "MOVIE_DB";
@@ -14,7 +14,7 @@ if ($dbconnect->errno != 0) {
 
 echo "Connected to database".PHP_EOL;
 
-$insertquery=mysqli_query($dbconnect, "INSERT INTO users VALUES (NULL, 'test','password')");
+##$insertquery=mysqli_query($dbconnect, "INSERT INTO users VALUES (NULL, 'tesrt','passworrd')");
 
 
 ?>
