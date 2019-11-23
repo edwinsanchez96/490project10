@@ -7,7 +7,6 @@ require_once('rabbitMQLib.inc');
 error_reporting(E_ALL);
 ini_set('display_errors', TRUE);
 ini_set('log_errors', TRUE);
-ini_set('error_log', '/home/it490/490/rabbitmqphp_example/logging/log.txt');
 ini_set('log_errors_max_len', 1024);
 
 
